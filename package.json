@@ -2,7 +2,7 @@
   "name": "Node-Capistrano",
   "version": "1.0.0",
   "author": "Thomas Lackemann <tommylackemann@gmail.com>",
-  "description": "Source code for http://whoistom.me/deploying-a-simple-node-js-application-with-capistrano/",
+  "description": "Source code for http://whoistom.me/serious-nodejs-deployments-using-capistrano-forever/",
   "contributors": [
     {
       "name": "Thomas Lackemann",
