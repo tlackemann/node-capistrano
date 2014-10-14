@@ -1,0 +1,32 @@
+{
+  "name": "Node-Capistrano",
+  "version": "1.0.0",
+  "author": "Thomas Lackemann <tommylackemann@gmail.com>",
+  "description": "Source code to accompany blog http://whoistom.me",
+  "contributors": [
+    {
+      "name": "Thomas Lackemann",
+      "email": "tommylackemann@gmail.com",
+      "web": "http://whoistom.me/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlackemann/node-capistrano.git"
+  },
+  "keywords": [
+    "deployment",
+    "capistrano"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
